@@ -1,3 +1,12 @@
+# To-do
+
+- [ ] moesql
+    - [ ] Release 1.0
+
+- [ ] Project setup
+    - ~~[x] Todo~~
+    - ~~[x] Readme~~
+
 - [ ] Preparation
     - [ ] Bundle moesql 1.0 - SQL ORM abstraction
     - [ ] Bundle moserver 3.0
